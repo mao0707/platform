@@ -2,7 +2,8 @@
 
 
 相关资料查阅：
- * [资料](http://www.baidu.com)
+ * [CMDB](http://www.linuxde.net/2015/09/15704.html)
+ * [JUMPSERVER](https://github.com/jumpserver/jumpserver/)
 
 
 
