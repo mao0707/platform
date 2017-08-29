@@ -1,126 +1,13 @@
-H1
-========
-H3
--------
-# H1
-### H3
+平台建设以业务实现为基础，以API管理平台为切入点，逐层深入，最终完成系统的透明化运行，提高业务及开发的工作效率。
 
-> qqqq
-> qqqqq
+API管理平台主要解决以下几点问题：
+1. 规范项目管理流程，达到业务系统的规范化的目标；
+2. 统一项目管理规范，快速定位问题，解决故障；
+3. 提供接口数据的安全及健康状态的监控报警服务，保障业务系统的绿色运行；
+4. 接口的自动化部署测试及自愈功能，尽可能减少故障率；
+5. 统一配置服务器信息，避免项目因服务器升级或安全信息变更导致无法访问；
+6. 集成第三方平台（微信，微博，QQ）等资源资源信息,减少公司成本及开发周期；
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+下图2.1 API管理平台的服务业务图，主要描述了在不同业务系统间的数据交互，从而可规范化管理业务系统的服务数据。
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
-
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
-
-
-> ## 这是一个标题。
-> 
-> 1.   这是第一行列表项。
-> 2.   这是第二行列表项。
-> 
-> 给出一些例子代码：
-> 
->     return shell_exec("echo $input | $markdown_script");
-
-
-*   Red
-*   Green
-*   Blue
-
-
-1.  Bird
-1.  McHale
-1.  Parish
-
-
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-    viverra nec, fringilla in, laoreet vitae, risus.
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-    Suspendisse id sem consectetuer libero luctus adipiscing.
-    
-
-*   A list item with a blockquote:
-
-    > This is a blockquote
-    > inside a list item.
-    
-    
-*   一列表项包含一个列表区块：
-
-        <代码写在这>
-        
-
-1986\. What a great season.
-
-
-这是一个普通段落：
-
-    这是一个代码区块。
-    
-    
-    
-*****
-
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-See my [About](/about/) page for details.
-
----------------------------------------
-
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com/  "Optional Title Here"
-
----------------------------------------
-
-
-Visit [Daring Fireball][] for more information.
-[Daring Fireball]: http://daringfireball.net/
-
-![Alt text](http://img.eol.cn/images/ed/index/2013/logo.png "Optional title")
-
-![Alt text][id]
-[id]: http://img.eol.cn/images/ed/index/2013/logo.png  "Optional title attribute"
-
-<http://example.com/>
-
-<address@example.com>
-
-
-*single asterisks*
-
-_single underscores_
-
-**double asterisks**
-
-__double underscores__
-
-un*frigging*believable
-
-\*this text is surrounded by literal asterisks\*
-
-Use the `printf()` function.
-
-``There is a literal backtick (`) here.``
-
-A single backtick in a code span: `` ` ``
-
-A backtick-delimited string in a code span: `` `foo` ``
-
-``There is a literal backtick (`) here.``
-
-`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
+![API管理平台业务图](/assets/API管理平台业务图.png "API管理平台业务图")
